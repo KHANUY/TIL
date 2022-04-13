@@ -45,7 +45,7 @@ Visual Studio Code는 GitHub가 개발한 Electron Framework를 Base하여 Runni
 
 
 
-**2.3 VS CODE Command **
+**2.3 VS CODE Command**
 
 | Command name | Command Explanation | For example |
 | ------------ | ------------------- | ----------- |
